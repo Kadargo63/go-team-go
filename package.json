@@ -18,5 +18,13 @@
   "homepage": "https://github.com/Kadargo63/go-team-go#readme",
   "devDependencies": {
     "jest": "^27.3.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "keywords": [
+    "TDD",
+    "inquirer"
+  ]
 }
