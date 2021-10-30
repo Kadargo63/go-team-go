@@ -88,7 +88,7 @@ const addEmployee = () => {
 
     return inquirer.prompt ([
         {
-            typre: 'list',
+            type: 'list',
             name: 'role',
             message: "Please choose your employee's role.",
             choices: ['Engineer', 'Intern']
