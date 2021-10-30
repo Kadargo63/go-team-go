@@ -3,14 +3,14 @@ const Intern = require('../lib/Intern');
 
 // creating intern object
 test('creates an Intern object', () => {
-    const intern = new Intern('Guillermo', 33, 'guillermo.rodriguez@elmachote.com');
+    const intern = new Intern('Guillermo', 33, 'guillermo.rodriguez@elmachote.com', 'UWF');
     
     expect(intern.school).toEqual(expect.any(String));
 });
 
 // gets school from getSchool
 test('gets employee school', () => {
-    const intern = new Intern('Guillermo', 33, 'guillermo.rodriguez@elmachote.com');
+    const intern = new Intern('Guillermo', 33, 'guillermo.rodriguez@elmachote.com', 'UWF');
 
     expect(intern.getSchool()).toEqual(expect.stringContaining(intern.school.toString()));
 });

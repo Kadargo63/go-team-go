@@ -22,7 +22,9 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
   "keywords": [
     "TDD",
     "inquirer"
