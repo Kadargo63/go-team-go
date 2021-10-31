@@ -5,6 +5,8 @@
 
   # Description
   This application was created to enable quick access to employee information via a dynamically generated team profile based on user input using the Inquirer module from Node.js. This information is displayed on a newly created html page with a style sheet. This project demonstrates use of OOP and TDD using Jest.
+  
+  ![image](https://user-images.githubusercontent.com/88639772/139605213-ed007e5d-4698-4e12-9e4b-0a9fb4892741.png)
 
   # Table of Contents 
   * [Installation](#-Installation)
@@ -31,7 +33,7 @@
   Run "npm test" to run Jest for tests on constuctors.
   
   # Contact Information 
-  * GitHub Username: If you have any questions about this project, please contact me at robertisaacs87@yahoo.com. You can find my other projects at https://github.com/Kadargo63.
-  * Contact Email: robertisaacs87@yahoo.com
+  * GitHub Username: You can find my other projects at https://github.com/Kadargo63.
+  * Contact Email: If you have any questions about this project, please contact me at robertisaacs87@yahoo.com.
   
   
