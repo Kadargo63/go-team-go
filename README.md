@@ -20,7 +20,7 @@
   The user can download the repository from GitHub and download Node. This application also requires a file system and Inquirer module. If testing is required, this application uses Jest.. 
   
   # Usage
-  Use Inquirer from the command line to answer questions about your team. You can view a walk through video here:
+  Use Inquirer from the command line to answer questions about your team. You can view a walk through video here: https://watch.screencastify.com/v/NWdRqEmIVnfs3cIGLon1
   
   # License 
   MIT
