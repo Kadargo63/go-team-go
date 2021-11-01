@@ -21,6 +21,7 @@
   
   # Usage
   Use Inquirer from the command line to answer questions about your team. You can view a walk through video here: https://watch.screencastify.com/v/NWdRqEmIVnfs3cIGLon1
+  Walk through of testing: https://watch.screencastify.com/v/PKym6xc3wEyN1bTcr2Nu
   
   # License 
   MIT
